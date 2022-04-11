@@ -1,4 +1,4 @@
-# Backend - NodeJs
+# Backend - NodeJs + Sequelize ORM
 
 Projeto desenvolvido para programa de Trainee
 
